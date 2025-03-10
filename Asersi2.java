@@ -24,5 +24,5 @@ public class Asersi2 {
     }
 }
 
-//pertanyaan : secara konsep, ada yang kurang tepa pada proggram Asersi 2 di atas 
-//jawaban : assertanya lebih baik di buat di class lingkaran di atas karena lebih baik jika exceptionnya di lakukan sebelum membuat lingkaran
+//pertanyaan : secara konsep, ada yang kurang tepat pada proggram Asersi 2 di atas 
+//jawaban : Assertion (assert) tidak cocok digunakan untuk validasi input runtime yang bisa berubah
