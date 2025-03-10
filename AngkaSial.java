@@ -23,3 +23,6 @@ public class AngkaSial {
         }
     }
 }
+
+//PERTANYAAN: Ketika eksepsi terjadi, apakah baris 12 pada AngkaSial.java di atas dieksekusi? Apakah baris 21 pada AngkaSial.java di atas dieksekusi?
+//JAWABAN: baris 12 tidak dieksekusi karena sebelum mencapainya program sudah melemparkan eksepsi dan baris 21 dieksekusi karena ada blok catch yang menangani eksepsi dan mengeksekusi perintah di dalamnya
